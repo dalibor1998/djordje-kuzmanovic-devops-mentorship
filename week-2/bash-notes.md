@@ -1,13 +1,14 @@
 # Level 0
 
-`ssh -p2220 bandit0@bandit.labs.overthweire.org` # ssh konekcija po portu 2220 prema navedenom hostu
+```
+$ ssh -p2220 bandit0@bandit.labs.overthweire.org #ssh konekcija po portu 2220 prema navedenom hostu
 
-`ls` # provjera da li je fajl koji sadrzi password za sljedeci nivo prisutan
+$ ls #provjera da li je fajl koji sadrzi password za sljedeci nivo prisutan
 
-`cat readme` # ispis sadrzaja fajla koji sadrzi password za sljedeci nivo
+$ cat readme #ispis sadrzaja fajla koji sadrzi password za sljedeci nivo
 
-`exit` # logout usera bandit0
-
+$ exit #logout usera bandit0
+```
 ![bandit0](https://i.ibb.co/R0VGxz1/bandit0.png)
 
 
