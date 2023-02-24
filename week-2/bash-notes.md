@@ -1,6 +1,6 @@
 # Level 0
 
-```
+```diff
 $ ssh -p2220 bandit0@bandit.labs.overthweire.org #ssh konekcija po portu 2220 prema navedenom hostu
 
 $ ls #provjera da li je fajl koji sadrzi password za sljedeci nivo prisutan
